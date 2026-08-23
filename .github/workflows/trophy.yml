@@ -1,4 +1,4 @@
-name: generate trophy
+name: generate trophy (deno)
 
 on:
   schedule:
@@ -11,12 +11,30 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: checkout own repo
+        uses: actions/checkout@v4
+
+      - name: checkout trophy source
+        uses: actions/checkout@v4
         with:
-          username: Wahid1178
-          output_path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ryo-ma/github-profile-trophy
+          path: trophy-src
+
+      - name: setup deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: generate svg
+        working-directory: trophy-src
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts Wahid1178 ../output tokyonight
+
+      - name: rename output
+        run: mv output/*.svg trophy.svg
+
       - name: commit trophy.svg
         run: |
           git config user.name "github-actions[bot]"
