@@ -10,12 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    steps:
+    steps:      
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.TROPHY_TOKEN }}
-        with:
-          username: Wahid1178
+          USERNAME: Wahid1178
       - name: commit
         run: |
           git config user.name "github-actions[bot]"
