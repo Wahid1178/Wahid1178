@@ -1,0 +1,144 @@
+<svg width="100%" height="auto" viewBox="0 0 420 900" xmlns="http://www.w3.org/2000/svg">
+<defs><style>.wall{fill:#04101f;stroke:#00C2FF;stroke-width:2;stroke-opacity:0.55;} .floor{fill:#000814;} .dot{fill:#FFE97A;} .power{fill:#FFE97A;}</style></defs>
+<rect x="0" y="0" width="420" height="900" fill="#000814"/>
+<rect class="wall" x="2" y="2" width="56" height="56" rx="4"/>
+<rect class="wall" x="62" y="2" width="56" height="56" rx="4"/>
+<rect class="wall" x="122" y="2" width="56" height="56" rx="4"/>
+<rect class="wall" x="182" y="2" width="56" height="56" rx="4"/>
+<rect class="wall" x="242" y="2" width="56" height="56" rx="4"/>
+<rect class="wall" x="302" y="2" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="2" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="62" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="62" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="122" width="56" height="56" rx="4"/>
+<rect class="wall" x="122" y="122" width="56" height="56" rx="4"/>
+<rect class="wall" x="182" y="122" width="56" height="56" rx="4"/>
+<rect class="wall" x="242" y="122" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="122" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="182" width="56" height="56" rx="4"/>
+<rect class="wall" x="122" y="182" width="56" height="56" rx="4"/>
+<rect class="wall" x="242" y="182" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="182" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="242" width="56" height="56" rx="4"/>
+<rect class="wall" x="122" y="242" width="56" height="56" rx="4"/>
+<rect class="wall" x="242" y="242" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="242" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="302" width="56" height="56" rx="4"/>
+<rect class="wall" x="242" y="302" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="302" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="362" width="56" height="56" rx="4"/>
+<rect class="wall" x="62" y="362" width="56" height="56" rx="4"/>
+<rect class="wall" x="122" y="362" width="56" height="56" rx="4"/>
+<rect class="wall" x="242" y="362" width="56" height="56" rx="4"/>
+<rect class="wall" x="302" y="362" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="362" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="422" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="422" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="482" width="56" height="56" rx="4"/>
+<rect class="wall" x="122" y="482" width="56" height="56" rx="4"/>
+<rect class="wall" x="182" y="482" width="56" height="56" rx="4"/>
+<rect class="wall" x="242" y="482" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="482" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="542" width="56" height="56" rx="4"/>
+<rect class="wall" x="122" y="542" width="56" height="56" rx="4"/>
+<rect class="wall" x="242" y="542" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="542" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="602" width="56" height="56" rx="4"/>
+<rect class="wall" x="122" y="602" width="56" height="56" rx="4"/>
+<rect class="wall" x="242" y="602" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="602" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="662" width="56" height="56" rx="4"/>
+<rect class="wall" x="242" y="662" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="662" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="722" width="56" height="56" rx="4"/>
+<rect class="wall" x="62" y="722" width="56" height="56" rx="4"/>
+<rect class="wall" x="122" y="722" width="56" height="56" rx="4"/>
+<rect class="wall" x="242" y="722" width="56" height="56" rx="4"/>
+<rect class="wall" x="302" y="722" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="722" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="782" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="782" width="56" height="56" rx="4"/>
+<rect class="wall" x="2" y="842" width="56" height="56" rx="4"/>
+<rect class="wall" x="62" y="842" width="56" height="56" rx="4"/>
+<rect class="wall" x="122" y="842" width="56" height="56" rx="4"/>
+<rect class="wall" x="182" y="842" width="56" height="56" rx="4"/>
+<rect class="wall" x="242" y="842" width="56" height="56" rx="4"/>
+<rect class="wall" x="302" y="842" width="56" height="56" rx="4"/>
+<rect class="wall" x="362" y="842" width="56" height="56" rx="4"/>
+<circle class="dot" cx="90" cy="90" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="150" cy="90" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="210" cy="90" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="270" cy="90" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="330" cy="90" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="90" cy="150" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="330" cy="150" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="90" cy="210" r="3.5" opacity="0.85"/>
+<circle class="power" cx="210" cy="210" r="8"><animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/></circle>
+<circle class="dot" cx="330" cy="210" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="90" cy="270" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="210" cy="270" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="330" cy="270" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="90" cy="330" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="150" cy="330" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="210" cy="330" r="3.5" opacity="0.85"/>
+<circle class="power" cx="330" cy="330" r="8"><animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/></circle>
+<circle class="dot" cx="210" cy="390" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="90" cy="450" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="150" cy="450" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="210" cy="450" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="270" cy="450" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="330" cy="450" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="90" cy="510" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="330" cy="510" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="90" cy="570" r="3.5" opacity="0.85"/>
+<circle class="power" cx="210" cy="570" r="8"><animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/></circle>
+<circle class="dot" cx="330" cy="570" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="90" cy="630" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="210" cy="630" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="330" cy="630" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="90" cy="690" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="150" cy="690" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="210" cy="690" r="3.5" opacity="0.85"/>
+<circle class="power" cx="330" cy="690" r="8"><animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/></circle>
+<circle class="dot" cx="210" cy="750" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="90" cy="810" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="150" cy="810" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="210" cy="810" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="270" cy="810" r="3.5" opacity="0.85"/>
+<circle class="dot" cx="330" cy="810" r="3.5" opacity="0.85"/>
+<g>
+    <path fill="#FF5C7A" d="M -13,6 a13,13 0 1 1 26,0 v11 l-3.2,-3.2 -3.3,3.2 -3.3,-3.2 -3.2,3.2 -3.3,-3.2 -3.3,3.2 -3.2,-3.2 z"/>
+    <circle fill="#ffffff" cx="-6" cy="2" r="3.2"/>
+    <circle fill="#ffffff" cx="6" cy="2" r="3.2"/>
+    <circle fill="#04101f" cx="-6" cy="2" r="1.4"/>
+    <circle fill="#04101f" cx="6" cy="2" r="1.4"/>
+    <animateMotion dur="9s" repeatCount="indefinite" begin="-1s" path="M90,90 L90,330 L210,330 L210,450 L90,450 L90,690 L210,690 L210,810 L330,810"/>
+  </g>
+<g>
+    <path fill="#FF8CE0" d="M -13,6 a13,13 0 1 1 26,0 v11 l-3.2,-3.2 -3.3,3.2 -3.3,-3.2 -3.2,3.2 -3.3,-3.2 -3.3,3.2 -3.2,-3.2 z"/>
+    <circle fill="#ffffff" cx="-6" cy="2" r="3.2"/>
+    <circle fill="#ffffff" cx="6" cy="2" r="3.2"/>
+    <circle fill="#04101f" cx="-6" cy="2" r="1.4"/>
+    <circle fill="#04101f" cx="6" cy="2" r="1.4"/>
+    <animateMotion dur="9s" repeatCount="indefinite" begin="-2.4s" path="M90,90 L90,330 L210,330 L210,450 L90,450 L90,690 L210,690 L210,810 L330,810"/>
+  </g>
+<g>
+    <path fill="#FFB347" d="M -13,6 a13,13 0 1 1 26,0 v11 l-3.2,-3.2 -3.3,3.2 -3.3,-3.2 -3.2,3.2 -3.3,-3.2 -3.3,3.2 -3.2,-3.2 z"/>
+    <circle fill="#ffffff" cx="-6" cy="2" r="3.2"/>
+    <circle fill="#ffffff" cx="6" cy="2" r="3.2"/>
+    <circle fill="#04101f" cx="-6" cy="2" r="1.4"/>
+    <circle fill="#04101f" cx="6" cy="2" r="1.4"/>
+    <animateMotion dur="9s" repeatCount="indefinite" begin="-3.8s" path="M90,90 L90,330 L210,330 L210,450 L90,450 L90,690 L210,690 L210,810 L330,810"/>
+  </g>
+<g>
+  <path fill="#FFE97A" d="M 0,0 L 13,-4 A 13 13 0 1 1 13,4 Z">
+    <animate attributeName="d"
+      values="M 0,0 L 13,-3 A 13 13 0 1 1 13,3 Z;
+              M 0,0 L 13,-11 A 13 13 0 1 1 13,11 Z;
+              M 0,0 L 13,-3 A 13 13 0 1 1 13,3 Z"
+      dur="0.3s" repeatCount="indefinite"/>
+  </path>
+  <animateMotion dur="9s" repeatCount="indefinite" path="M90,90 L90,330 L210,330 L210,450 L90,450 L90,690 L210,690 L210,810 L330,810" rotate="auto"/>
+</g>
+<text x="210" y="886" font-family="Courier New, monospace" font-size="13" fill="#00C2FF" text-anchor="middle" letter-spacing="1">WAHID1178 // KEEP LEARNING · KEEP BUILDING · KEEP GROWING</text>
+</svg>
