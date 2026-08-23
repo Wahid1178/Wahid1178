@@ -28,10 +28,11 @@ jobs:
       - name: generate svg
         working-directory: trophy-src
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN1: ${{ secrets.TROPHY_TOKEN }}
+          GITHUB_TOKEN2: ${{ secrets.TROPHY_TOKEN }}
         run: |
           deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts Wahid1178 ../output tokyonight
-
+          
       - name: rename output
         run: mv output/*.svg trophy.svg
 
