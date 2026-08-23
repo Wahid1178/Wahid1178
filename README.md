@@ -10,7 +10,7 @@
 <tr>
 <td width="30%" align="center">
 
-<img src="" width="180" style="border-radius:50%; border:4px solid #00C2FF; box-shadow: 0 0 20px #00C2FF;" alt="M Hidayat Nur Wahid"/>
+<img src="https://github.com/Wahid1178.png" width="180" style="border-radius:50%; border:4px solid #00C2FF; box-shadow: 0 0 20px #00C2FF;" alt="M Hidayat Nur Wahid"/>
 
 <br><br>
 
@@ -19,7 +19,7 @@
 </td>
 <td width="70%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=false&vCenter=true&width=550&lines=D4+Sistem+Informasi+Kota+Cerdas+%F0%9F%8F%99%EF%B8%8F;Telkom+University+%F0%9F%8E%93;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Data+Science+%26+Machine+Learning+%F0%9F%A4%96;Laravel+%26+Android+Developer+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=false&vCenter=true&width=550&lines=D4+Sistem+Informasi+Kota+Cerdas+%F0%9F%8F%99%EF%B8%8F;Telkom+University+%F0%9F%8E%93;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Data+Science+%26+Machine+Learning+%F0%9F%A4%96;Laravel+%26+Android+Developer+%F0%9F%92%BB" />
 
 <p>
   <a href="https://m-hidayat-nur-wahid-pv4h.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -123,6 +123,55 @@ philosophy: "Keep Learning, Keep Building, Keep Growing."
 
 <br>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="80%"/>
+</div>
+
+<details>
+<summary>📄 Cara mengaktifkan animasi ular ini (kalau belum ada)</summary>
+
+Buat file `.github/workflows/snake.yml` di repo `Wahid1178/Wahid1178`:
+
+```yaml
+name: generate snake animation
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - uses: actions/deploy-pages@v4
+```
+
+Setelah workflow jalan sekali, gambar di atas otomatis terisi.
+
+</details>
+
+<br>
+
 ## 📜 Certifications & Learning Path
 
 <div align="center">
@@ -174,7 +223,7 @@ philosophy: "Keep Learning, Keep Building, Keep Growing."
 
 <div align="center">
 
-### 💡 
+### 💡
 
 > *"Keep Learning, Keep Building, Keep Growing."*
 
