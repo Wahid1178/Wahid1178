@@ -118,7 +118,7 @@ philosophy: "Keep Learning, Keep Building, Keep Growing."
 ## 💬 Quote of the Moment
 
 <div align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
 </div>
 
 <br>
