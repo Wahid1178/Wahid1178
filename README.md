@@ -115,6 +115,30 @@ philosophy: "Keep Learning, Keep Building, Keep Growing."
 
 <br>
 
+## 💬 Quote of the Moment
+
+<div align="center">
+  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
+</div>
+
+<br>
+
+## 📈 Metrics Dashboard
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/main/metrics.svg" alt="metrics dashboard" width="100%"/>
+</div>
+
+<br>
+
+## 🧊 Contribution 3D
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph" width="100%"/>
+</div>
+
+<br>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
