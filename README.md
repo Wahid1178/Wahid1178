@@ -196,6 +196,16 @@ Setelah workflow jalan sekali, gambar di atas otomatis terisi.
 
 <br>
 
+## 👾 Arcade Corner
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/main/pacman_tall.svg" alt="pacman maze animation" width="340"/>
+  <br>
+  <sub>Pac-Man menyusuri labirin, dikejar 3 hantu, lengkap dengan jalan buntu 🧱</sub>
+</div>
+
+<br>
+
 ## 📜 Certifications & Learning Path
 
 <div align="center">
