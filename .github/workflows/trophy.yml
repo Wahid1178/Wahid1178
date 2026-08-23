@@ -34,7 +34,7 @@ jobs:
           deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts Wahid1178 ../output tokyonight
           
       - name: rename output
-        run: mv output/*.svg trophy.svg
+        run: mv output trophy.svg
 
       - name: commit trophy.svg
         run: |
