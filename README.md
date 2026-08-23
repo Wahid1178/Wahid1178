@@ -118,7 +118,7 @@ philosophy: "Keep Learning, Keep Building, Keep Growing."
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wahid1178&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
+  <img src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/main/trophy.svg"/>
 </div>
 
 <br>
