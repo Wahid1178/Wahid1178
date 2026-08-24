@@ -131,7 +131,7 @@ philosophy: "Keep Learning, Keep Building, Keep Growing."
 ## 💬 Quote of the Moment
 
 <div align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=4000&pause=1500&color=00C2FF&center=true&vCenter=true&width=700&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+-+Cory+House;%22The+best+error+message+is+the+one+that+never+shows+up.%22+-+Thomas+Fuchs;%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;%22Keep+Learning%2C+Keep+Building%2C+Keep+Growing.%22" alt="rotating quotes"/>
 </div>
 
 <br>
