@@ -2,7 +2,20 @@
 <!--                        HERO SECTION                           -->
 <!-- ============================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,50:00C2FF,100:00E5FF&height=200&section=header&text=M%20Hidayat%20Nur%20Wahid&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Informatics%20%7C%20Smart%20City%20Information%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,35:00C2FF,70:8A2BE2,100:FF2DAA&height=230&section=header&text=Hi%20There%2C%20I'm%20Wahid%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Smart%20City%20Information%20Systems%20%40%20Telkom%20University&descAlignY=52&descSize=17&descColor=e8e8ff" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=D4+Sistem+Informasi+Kota+Cerdas+%F0%9F%8F%99%EF%B8%8F;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Data+Science+%26+Machine+Learning+%F0%9F%A4%96;Laravel+%26+Android+Developer+%F0%9F%92%BB" />
+
+<br>
+
+<img src="https://img.shields.io/badge/📍_Indonesia-8A2BE2?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/followers/Wahid1178?label=Followers&style=for-the-badge&color=00C2FF&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=Wahid1178&label=Profile+Views&color=FF2DAA&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Collaborate-brightgreen?style=for-the-badge&labelColor=0d1117"/>
+
+</div>
 
 <br>
 
@@ -10,21 +23,20 @@
 <tr>
 <td width="30%" align="center">
 
-<img src="https://github.com/Wahid1178.png" width="180" style="border-radius:50%; border:4px solid #00C2FF; box-shadow: 0 0 20px #00C2FF;" alt="M Hidayat Nur Wahid"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Wahid1178&label=Profile%20Views&color=00C2FF&style=flat-square"/>
+<img src="https://github.com/Wahid1178.png" width="180" style="border-radius:50%; border:4px solid #00C2FF; box-shadow: 0 0 25px #8A2BE2;" alt="M Hidayat Nur Wahid"/>
 
 </td>
 <td width="70%">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=false&vCenter=true&width=550&lines=D4+Sistem+Informasi+Kota+Cerdas+%F0%9F%8F%99%EF%B8%8F;Telkom+University+%F0%9F%8E%93;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Data+Science+%26+Machine+Learning+%F0%9F%A4%96;Laravel+%26+Android+Developer+%F0%9F%92%BB" />
 
 <p>
   <a href="https://m-hidayat-nur-wahid-pv4h.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/m-hidayat-nur-wahid-570248181"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mhidayatnw123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Wahid1178"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p>
+Mahasiswa Smart City Information Systems yang senang membangun proyek nyata di persimpangan <b>enterprise architecture</b>, <b>machine learning</b>, dan <b>cyber security</b> — dari arsitektur TOGAF untuk kota pintar sampai aplikasi Laravel dan Android sehari-hari.
 </p>
 
 </td>
@@ -32,6 +44,7 @@
 </table>
 
 <br>
+
 
 ## 🎓 Education
 
@@ -201,9 +214,9 @@ Setelah workflow jalan sekali, gambar di atas otomatis terisi.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/pacman-contribution-graph.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/arcade-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/arcade-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/arcade-output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
 <sub>👻 Pac-Man menyusuri kontribusi harian — hari commit sangat banyak jadi power pellet yang bikin dia balik mengejar hantu</sub>
@@ -211,9 +224,9 @@ Setelah workflow jalan sekali, gambar di atas otomatis terisi.
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/breakout-contribution-graph.svg">
-  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/breakout-contribution-graph.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/arcade-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/arcade-output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/arcade-output/breakout-contribution-graph.svg" width="100%">
 </picture>
 
 <sub>🧱 Bola memantul menghancurkan kontribusi seperti Breakout</sub>
@@ -221,9 +234,9 @@ Setelah workflow jalan sekali, gambar di atas otomatis terisi.
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/galaga-contribution-graph.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/arcade-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/arcade-output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/arcade-output/galaga-contribution-graph.svg" width="100%">
 </picture>
 
 <sub>🚀 Kapal tempur menembaki grid kontribusi ala Galaga</sub>
@@ -231,9 +244,9 @@ Setelah workflow jalan sekali, gambar di atas otomatis terisi.
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/bomberman-contribution-graph.svg">
-  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/bomberman-contribution-graph.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/arcade-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/arcade-output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/arcade-output/bomberman-contribution-graph.svg" width="100%">
 </picture>
 
 <sub>💣 Dua Bomberman meledakkan sel-sel kontribusi</sub>
@@ -293,10 +306,14 @@ Setelah workflow jalan sekali, gambar di atas otomatis terisi.
 
 <div align="center">
 
-### 💡
+### 💡 *"Keep Learning, Keep Building, Keep Growing."*
 
-> *"Keep Learning, Keep Building, Keep Growing."*
+**Terima kasih sudah mampir!** Kalau ada proyek smart city, cyber security, atau ide kolaborasi lain, jangan ragu untuk menyapa 👋
+
+<sub>⭐ Kalau ada proyek di atas yang menarik buat kamu, jangan lupa mampir kasih star ya!</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:00C2FF,100:0057B7&height=150&section=footer" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2DAA,35:8A2BE2,70:00C2FF,100:0057B7&height=180&section=footer" width="100%"/>
