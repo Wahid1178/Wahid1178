@@ -118,7 +118,7 @@ philosophy: "Keep Learning, Keep Building, Keep Growing."
 ## 💬 Quote of the Moment
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
+  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
 </div>
 
 <br>
@@ -199,9 +199,45 @@ Setelah workflow jalan sekali, gambar di atas otomatis terisi.
 ## 👾 Arcade Corner
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/main/pacman_tall.svg" alt="pacman maze animation" width="340"/>
-  <br>
-  <sub>Pac-Man menyusuri labirin, dikejar 3 hantu, lengkap dengan jalan buntu 🧱</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<sub>👻 Pac-Man menyusuri kontribusi harian — hari commit sangat banyak jadi power pellet yang bikin dia balik mengejar hantu</sub>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/breakout-contribution-graph.svg" width="100%">
+</picture>
+
+<sub>🧱 Bola memantul menghancurkan kontribusi seperti Breakout</sub>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/galaga-contribution-graph.svg" width="100%">
+</picture>
+
+<sub>🚀 Kapal tempur menembaki grid kontribusi ala Galaga</sub>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Wahid1178/Wahid1178/output/bomberman-contribution-graph.svg" width="100%">
+</picture>
+
+<sub>💣 Dua Bomberman meledakkan sel-sel kontribusi</sub>
+
 </div>
 
 <br>
